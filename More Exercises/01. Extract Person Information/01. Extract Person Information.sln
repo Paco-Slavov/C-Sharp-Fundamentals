@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Extract Person Information", "01. Extract Person Information\01. Extract Person Information.csproj", "{32C60940-9CDD-48AD-A453-665992514882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ascii Sumator", "..\02. Ascii Sumator\02. Ascii Sumator.csproj", "{33B238CD-2CB2-4995-A5F1-064EC0161DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C60940-9CDD-48AD-A453-665992514882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C60940-9CDD-48AD-A453-665992514882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C60940-9CDD-48AD-A453-665992514882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C60940-9CDD-48AD-A453-665992514882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B238CD-2CB2-4995-A5F1-064EC0161DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B238CD-2CB2-4995-A5F1-064EC0161DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B238CD-2CB2-4995-A5F1-064EC0161DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B238CD-2CB2-4995-A5F1-064EC0161DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A690C3-4D8E-4337-BFB9-5DF9D403BA95}
+	EndGlobalSection
+EndGlobal

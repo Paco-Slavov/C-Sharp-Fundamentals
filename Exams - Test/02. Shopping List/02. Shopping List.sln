@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Shopping List", "02. Shopping List.csproj", "{BE97F49B-B405-4993-98DD-8C37EF2AED6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treasure Hunt", "..\..\Exam preparation 1\Treasure Hunt\Treasure Hunt.csproj", "{15FAD000-6843-4372-B1EE-E6E98097795E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE97F49B-B405-4993-98DD-8C37EF2AED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE97F49B-B405-4993-98DD-8C37EF2AED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE97F49B-B405-4993-98DD-8C37EF2AED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE97F49B-B405-4993-98DD-8C37EF2AED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FAD000-6843-4372-B1EE-E6E98097795E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FAD000-6843-4372-B1EE-E6E98097795E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FAD000-6843-4372-B1EE-E6E98097795E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FAD000-6843-4372-B1EE-E6E98097795E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDF0C65-F4E3-4785-A8A5-69C0183BFA8D}
+	EndGlobalSection
+EndGlobal

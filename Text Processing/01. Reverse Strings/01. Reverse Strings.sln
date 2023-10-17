@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{2A60C46D-97EC-4758-B167-05BF16F6BB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Substring", "..\03. Substring\03. Substring.csproj", "{23850987-CBFD-49D3-9E76-2E428FEAAF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A60C46D-97EC-4758-B167-05BF16F6BB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A60C46D-97EC-4758-B167-05BF16F6BB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A60C46D-97EC-4758-B167-05BF16F6BB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A60C46D-97EC-4758-B167-05BF16F6BB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23850987-CBFD-49D3-9E76-2E428FEAAF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23850987-CBFD-49D3-9E76-2E428FEAAF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23850987-CBFD-49D3-9E76-2E428FEAAF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23850987-CBFD-49D3-9E76-2E428FEAAF47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBB1F8C-43AA-452F-A907-AF35B1D386E5}
+	EndGlobalSection
+EndGlobal

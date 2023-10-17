@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Multiply Big Number", "05. Multiply Big Number.csproj", "{4F24B30C-DEA2-49BB-8622-ADE31509C706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Replace Repeating Chars", "..\06. Replace Repeating Chars\06. Replace Repeating Chars.csproj", "{6FF425A2-8EAD-4A6D-B3C9-EB07B8C77A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. String Explosion", "..\07. String Explosion\07. String Explosion.csproj", "{F9EFC19B-2A7D-4FFE-9F3E-300EC8187202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F24B30C-DEA2-49BB-8622-ADE31509C706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F24B30C-DEA2-49BB-8622-ADE31509C706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F24B30C-DEA2-49BB-8622-ADE31509C706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F24B30C-DEA2-49BB-8622-ADE31509C706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF425A2-8EAD-4A6D-B3C9-EB07B8C77A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF425A2-8EAD-4A6D-B3C9-EB07B8C77A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF425A2-8EAD-4A6D-B3C9-EB07B8C77A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF425A2-8EAD-4A6D-B3C9-EB07B8C77A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EFC19B-2A7D-4FFE-9F3E-300EC8187202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EFC19B-2A7D-4FFE-9F3E-300EC8187202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EFC19B-2A7D-4FFE-9F3E-300EC8187202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EFC19B-2A7D-4FFE-9F3E-300EC8187202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF86606-3090-4029-BA5E-79D0C0657603}
+	EndGlobalSection
+EndGlobal

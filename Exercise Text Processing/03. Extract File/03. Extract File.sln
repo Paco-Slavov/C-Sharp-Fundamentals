@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Extract File", "03. Extract File.csproj", "{A2B17820-595A-4C92-88D2-E25F8E8346E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Caesar Cipher", "..\04. Caesar Cipher\04. Caesar Cipher.csproj", "{0F145417-EF07-4491-A6D7-A356BCDDA75A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiply Big Number", "..\05. Multiply Big Number\05. Multiply Big Number.csproj", "{B33A9EC3-D599-48F7-8EB3-0C91C36307D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B17820-595A-4C92-88D2-E25F8E8346E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B17820-595A-4C92-88D2-E25F8E8346E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B17820-595A-4C92-88D2-E25F8E8346E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B17820-595A-4C92-88D2-E25F8E8346E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F145417-EF07-4491-A6D7-A356BCDDA75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F145417-EF07-4491-A6D7-A356BCDDA75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F145417-EF07-4491-A6D7-A356BCDDA75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F145417-EF07-4491-A6D7-A356BCDDA75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33A9EC3-D599-48F7-8EB3-0C91C36307D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33A9EC3-D599-48F7-8EB3-0C91C36307D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33A9EC3-D599-48F7-8EB3-0C91C36307D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33A9EC3-D599-48F7-8EB3-0C91C36307D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03D7F30-FAC5-4996-9E6B-69B4C3EFE443}
+	EndGlobalSection
+EndGlobal
